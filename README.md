@@ -15,6 +15,6 @@ Electronics course during the 2019–2020 school year at the University of Barce
 | Technology | Purpose |
 |---|---|
 | MSP432P401R LaunchPad Development Kit | Target microcontroller board used in labs |
-| Energia IDE | Arduino-like development environment for TI LaunchPad |
-| C | Primary programming language |
+| [Energia IDE](https://energia.nu/) | Arduino-like development environment for TI LaunchPad |
+| C/C++ | Primary programming language |
 | Arduino libraries and tools | Libraries and utilities compatible with Energia |
