@@ -1,6 +1,6 @@
 # Electronics
 # Electronics
-Electronics course during the 2019–2020 school year at the University of Barcelona.
+Electronics course during the 2019–2020 year at the University of Barcelona.
 
 ## Content
 - [Syllabus](https://www.ub.edu/pladocent/?cod_giga=364297&curs=2019&idioma=cat)
