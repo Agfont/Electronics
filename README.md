@@ -1,5 +1,4 @@
 # Electronics
-# Electronics
 Electronics course during the 2019–2020 year at the University of Barcelona.
 
 ## Content
